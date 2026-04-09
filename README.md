@@ -86,6 +86,6 @@ A travel form where users can:
 
 This project is built for **learning backend development using PHP and MySQL**.
 
-## 📸 Screenshot
+## 📸 Project Preview
 
-![Travel Form](ss of webpage.png)
+![Travel Form UI](ss%20of%20webpage.png)
